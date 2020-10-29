@@ -29,4 +29,4 @@ Also I really do believe in agile working (I am a CSM), I like to pay attention 
 - [Petris Development GitHub](https://github.com/petris-dev)
 
 ---
-[![andrasadam93's github stats](https://github-readme-stats.vercel.app/api?username=andrasadam93)](https://github.com/andrasadam93/github-readme-stats)
+[![andrasadam93's github stats](https://github-readme-stats.vercel.app/api?username=andrasadam93&theme=synthwave)]
