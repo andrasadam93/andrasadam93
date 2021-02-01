@@ -2,24 +2,26 @@
 I am a developer but not sure how to categorize myself. Job-wise, I am a front-end developer, but my education was in mechatronic engineering and then AI. Currently, I am spending a lot of time on developing a PC game and I try to learn as much as possible along the way.
 
 # ⚡ What I kinda know how to do
-- JavaScript, ES6, Typescript
+- JavaScript/TypeScript, ES2020
+- Semantic HTML and advanced CSS (preprocessors, animations)
 - Major JS frameworks (Angular, AngularJS and React)
-- Major JS libraries (MomentJS*, rxjs, lodash, underscore, jQuery, d3js, etc.)
+- Major JS libraries (rxjs, lodash, underscore, d3js, etc.)
 - C# and Unity
 - Machine Learning basics (Python with numpy, pandas, keras, tensorflow, sk)
 
-Also I really do believe in agile working (I am a CSM), I like to pay attention to UI/UX and I love when things are well organized (code, projects, documentation, etc.)
+I also really believe in agile working (I am a CSM), I like to pay attention to UI/UX and I love when things are well organized (code, projects, documentation, etc.)
 
-*it is now being discontinued :(
 
 # 🔭 What I am currently working on / learning
 - DevOps for front-end development (jenkins, sonarqube, code coverage reports, git-related automation)
 - Testing front-end (jest, spectator, cypress, marble diagrams)
 - A PC game developed in Unity
+- Haskell - to learn something very different
 
 # 🌱 What plans I have
-- The PC game has to be finished with our team and then we should move on to the next one!
-- Deepen my front-end knowledge to be an all-around front-end dev
+- The PC game to be finished with our team and then we should move on to the next one!
+- Reach a state where I can confidently say that I know a *lot* about front-end development
+- Learn about tech that is completely different to what I already know to widen my general understanding of programming
 
 # 💬 How to reach me
 - [My website](https://andrasadam.com)
