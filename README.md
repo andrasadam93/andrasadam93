@@ -4,12 +4,12 @@ I am a developer but not sure how to categorize myself. Job-wise, I am a front-e
 # ⚡ What I kinda know how to do
 - JavaScript/TypeScript, ES2020
 - Semantic HTML and advanced CSS (preprocessors, animations)
-- Major JS frameworks (Angular, AngularJS and React)
+- Major JS frameworks (Angular, AngularJS and a bit of React)
 - Major JS libraries (rxjs, lodash, underscore, d3js, etc.)
 - C# and Unity
-- Machine Learning basics (Python with numpy, pandas, keras, tensorflow, sk)
+- Data Science and ML/AI basics (Python with numpy, pandas, and also some keras, tensorflow, sk)
 
-I also really believe in agile working (I am a CSM), I like to pay attention to UI/UX and I love when things are well organized (code, projects, documentation, etc.)
+I also really believe in true agile working (I am a CSM), I like to pay attention to UI/UX and I love when things are well organized (code, projects, documentation, etc.)
 
 
 # 🔭 What I am currently working on / learning
